@@ -99,6 +99,20 @@ h4 {
   justify-content: center;
 }
 
+/* featured tea section */
+#featured-tea {
+  width: 1000px;
+  height: 700px;
+  margin: auto;
+  padding-top: 70px;
+}
+
+.tea img {
+  width: 300px;
+  height: 200px;
+  margin: 10px;
+}
+
 /* contact section */
 #contact {
   height: 200px;

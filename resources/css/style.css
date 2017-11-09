@@ -72,6 +72,33 @@ h4 {
   width: 100%;
 }
 
+/* locations section */
+#locations {
+  height: 500px;
+  background-image: url("./background-images/img-locations-background.jpg");
+  padding-top: 70px;
+}
+
+#locations .flex-container {
+  margin: auto;
+  width: 1100px;
+}
+
+.flex-container.locations {
+  padding-top: 5px;
+}
+
+.location {
+  width: 300px;
+  background-color: black;
+  margin: 5px 20px;
+  opacity: 1.0;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
 /* contact section */
 #contact {
   height: 200px;
